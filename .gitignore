@@ -130,3 +130,6 @@ dmypy.json
 
 # txt
 *.txt
+
+# pdf
+*.pdf
