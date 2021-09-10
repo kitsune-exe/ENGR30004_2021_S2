@@ -133,3 +133,9 @@ dmypy.json
 
 # pdf
 *.pdf
+
+# MS word
+*.docx
+
+# zip
+*.zip
